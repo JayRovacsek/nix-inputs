@@ -248,5 +248,5 @@
     };
   };
 
-  outputs = inputs: { inherit inputs; };
+  outputs = inputs: inputs;
 }
